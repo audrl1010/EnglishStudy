@@ -1,5 +1,6 @@
 
-2017-12-07
+1회차. 2017-12-07
+
 관련 링크(https://javascript.info/intro)
 
 `An Introduction to JavaScript`
